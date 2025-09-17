@@ -177,4 +177,4 @@ Authorization: Bearer <SEU_TOKEN_AQUI>
 
 ## 📄 Licença
 
-© GO+. Todos os direitos reservados.
+© GO+ Group. Todos os direitos reservados.
