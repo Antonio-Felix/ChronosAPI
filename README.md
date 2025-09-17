@@ -1,13 +1,13 @@
-Perfeito! Seu README já está funcional, mas podemos **torná-lo mais bonito, organizado e legível** com algumas melhorias de formatação, seções destacadas, emojis, badges e exemplos. Aqui vai uma versão aprimorada:
+<h1 align="center">⏳ CHRONOS API</h1>
+<p align="center">Uma API para acompanhamento de treinos, dietas e usuários, desenvolvida com Django REST Framework.</p>
+
+<p align="center" gap="8px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="256" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height="256" />
+</p>
 
 ````markdown
-# 🕒 ChronosAPI
-
-![Django](https://img.shields.io/badge/Django-5.1-green) ![Python](https://img.shields.io/badge/Python-3.x-blue) ![DRF](https://img.shields.io/badge/DRF-REST-red)
-
-Uma API para acompanhamento de treinos, dietas e usuários, desenvolvida com Django REST Framework.
-
----
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -37,15 +37,16 @@ Uma API para acompanhamento de treinos, dietas e usuários, desenvolvida com Dja
 - Virtualenv (venv)
 - Banco de dados configurado (PostgreSQL)
 
----
+````
 
 ## 🛠️ Instalação
 
 1. Clone o repositório:
+   
 ```bash
 git clone https://github.com/Antonio-Felix/ChronosAPI.git
 cd ChronosAPI
-````
+```
 
 2. Crie e ative o ambiente virtual:
 
