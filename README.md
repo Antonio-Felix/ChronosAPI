@@ -16,7 +16,7 @@
 - Django REST Framework
 - Banco de dados: PostgreSQL
 - Autenticação JWT
-- Swagger / DRF Spectacular (opcional)
+- Swagger / DRF Spectacular
 
 ---
 
